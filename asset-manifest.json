@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monster-mash/static/css/main.b08df137.css",
+    "main.js": "/monster-mash/static/js/main.fe2d4351.js",
+    "static/js/787.13e87279.chunk.js": "/monster-mash/static/js/787.13e87279.chunk.js",
+    "static/media/Juice Monster.woff": "/monster-mash/static/media/Juice Monster.4f373b5b2e22b9595c18.woff",
+    "index.html": "/monster-mash/index.html",
+    "main.b08df137.css.map": "/monster-mash/static/css/main.b08df137.css.map",
+    "main.fe2d4351.js.map": "/monster-mash/static/js/main.fe2d4351.js.map",
+    "787.13e87279.chunk.js.map": "/monster-mash/static/js/787.13e87279.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08df137.css",
+    "static/js/main.fe2d4351.js"
+  ]
+}

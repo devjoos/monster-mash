@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Juice Monster Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Juice Monster Regular'), url('Juice Monster.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Juice Monster Regular';
+    font-weight: 200;
+    color: #195f13;
+}
